@@ -1,5 +1,7 @@
 # Introduction to CosmoMVPA
 ## Demo dataset
+The demo dataset can be downloaded here: https://drive.google.com/open?id=0B3ALgJ4N0EPWbGl5QmNQRl9uR0E (BC sign in, for now)
+
 ### Design features
 - 6 runs of functional data from a single awesome subject
 - Task design: Category (face, scene) x Fame (famous, non-famous) x Repetition (first, second)
